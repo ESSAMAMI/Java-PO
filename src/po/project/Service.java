@@ -23,7 +23,7 @@ public class Service{
     public void toString(){
         
         System.out.println(
-            "Name : "+name
+            "Name : "+name'\n'+
         );
     }
 }

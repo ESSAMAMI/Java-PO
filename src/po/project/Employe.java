@@ -50,8 +50,8 @@ public class Employe{
     public void toString(){
 
         System.out.println(
-            "Name : "+name+
-            "Surname : "+surname+
+            "Name : "+name+'\n'+
+            "Surname : "+surname+'\n'+
             "Service : "+listService.get().toString(); 
         );
     }

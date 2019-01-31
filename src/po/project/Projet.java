@@ -39,8 +39,8 @@ public class Projet{
     public void toString(){
         
         System.out.println(
-            "Employe : "+employe.toString+
-            "Service : "+service.toString+
+            "Employe : "+employe.toString+'\n'+
+            "Service : "+service.toString+'\n'+
             "Name : "+name
         );
     }
